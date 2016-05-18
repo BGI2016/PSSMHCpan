@@ -7,4 +7,4 @@ Please download th file "PSSMHCpan-1.0.tar.gz" and unpackage: tar -xzvf PSSMHCpa
 # Run the example
 sh ./PSSMHCpan/test.sh
 
-Please contact liugeng@genomics.cn/lidongli@genomis.cn if any questions about PSSMHCpan.
+Please contact liugeng@genomics.cn or lidongli@genomics.cn if any questions about PSSMHCpan.
