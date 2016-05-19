@@ -7,7 +7,7 @@ cd ./PSSMHCpan-1.0
 
 ./PSSMHCpan
 
-The software must run under this software directory.
+The software must be run under this software directory.
 # Run the example
 cd ./PSSMHCpan-1.0
 
