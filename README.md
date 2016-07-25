@@ -14,6 +14,7 @@ sh test.sh
 
 # License
 Both the PSSMHCpan API and toolkit are released under the MIT License.
+
 Copyright (c) 2016-2017 Geng Liu , Dongli Li
 
 See included file LICENSE for details.
