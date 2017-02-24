@@ -1,5 +1,5 @@
 # PSSMHCpan
-An improved PSSM based method for predicting class I HLA-peptide binding affinity
+A novel PSSM based software for predicting class I peptide-HLA binding affinity
 # Download and install
 Please download the file "PSSMHCpan-1.0.tar.gz" and unpackage: tar -xzvf PSSMHCpan-1.0.tar.gz
 # Running
