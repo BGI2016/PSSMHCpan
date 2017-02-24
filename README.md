@@ -5,7 +5,7 @@ Please download the file "PSSMHCpan-1.0.tar.gz" and unpackage: tar -xzvf PSSMHCp
 # Running
 cd ./PSSMHCpan-1.0
 
- ./PSSMHCpan-1.0.pl
+perl ./PSSMHCpan-1.0.pl
 
 # Run the example
 cd ./PSSMHCpan-1.0
